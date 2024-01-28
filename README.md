@@ -2,6 +2,7 @@ ScheduleXpress is a user-friendly app built in NextJS/ReactJS. It efficiently as
 
 ## Important notes for assignment: 
 - Besides unit tests, I have included a single integration test using Jest, haven't used Cucumber at the moment however same test can be converted to cucumber.
+- First time changing attendance also auto asisgn the teachers.
 - I've used the Next.js app router but didn't used server components instead used client components as this was small assignment.
 - For data, I've used mock data.
 - App is currently hosted on Vercel. Please use the below demo link
