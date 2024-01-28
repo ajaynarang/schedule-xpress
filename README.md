@@ -7,7 +7,7 @@ ScheduleXpress is a user-friendly app built in NextJS/ReactJS. It efficiently as
 - App is currently hosted on Vercel. Please use the below demo link
 
 ## Demo 
-
+https://schedule-xpress.vercel.app/
 
 
 ## Tech stack 
