@@ -17,6 +17,7 @@ https://schedule-xpress.vercel.app/
 - ReactJS 
 - Redux + Redux Toolkit
 - Tailwind CSS  - CSS utility
+- Material UI - component library
 - JEST/ React Testing library
 #### Server 
 None - using mock data 
