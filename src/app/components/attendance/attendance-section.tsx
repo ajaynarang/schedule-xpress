@@ -26,7 +26,7 @@ function AttendanceSection() {
         <div>
           <Button
             data-testid="auto-assign-button"
-            className="mr-2"
+            className="mr-4"
             variant="outlined"
             onClick={autoAssign}
           >
